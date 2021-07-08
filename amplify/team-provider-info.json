@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-siwasmoketest-dev-194717-authRole",
+      "UnauthRoleArn": "arn:aws:iam::759315604407:role/amplify-siwasmoketest-dev-194717-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::759315604407:role/amplify-siwasmoketest-dev-194717-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-siwasmoketest-dev-194717-deployment",
+      "UnauthRoleName": "amplify-siwasmoketest-dev-194717-unauthRole",
+      "StackName": "amplify-siwasmoketest-dev-194717",
+      "StackId": "arn:aws:cloudformation:us-east-1:759315604407:stack/amplify-siwasmoketest-dev-194717/4ec88cf0-e025-11eb-99f9-0a6641f83659",
+      "AmplifyAppId": "d11he4wuw4u7hw"
+    },
+    "categories": {
+      "auth": {
+        "siwasmoketest388c1ba4": {}
+      }
+    }
+  }
+}
